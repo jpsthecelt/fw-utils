@@ -1,2 +1,0 @@
-[console_scripts]
-fw-list = fw_utils.cli:main
